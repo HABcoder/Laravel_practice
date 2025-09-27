@@ -1,1 +1,1 @@
-Laravel Practical Working Continue Not Completed yet
+Laravel Practical Working Completed Class Test
